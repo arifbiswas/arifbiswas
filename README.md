@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **arifbiswas1020@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QnIEJc9JatAd2H3RxW6GX9V_y2PE9QxN/view?usp=share_link](https://drive.google.com/file/d/1QnIEJc9JatAd2H3RxW6GX9V_y2PE9QxN/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1u27yaqXhS3Hw75fi5DvL27Fc5uv9Copn/view?usp=share_link)
 
 - ⚡ Fun fact **Yeap, I think I am very funny**
 
