@@ -105,7 +105,7 @@ I enjoy solving real-world problems, learning new technologies and turning ideas
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arifbiswas&theme=react-dark&bg_color=0a0118&color=00fff5&line=ff2fd0&point=ffffff&border=b026ff&title_color=00fff5" width="100%"/>
+<img src="https://github-readme-activity-graph-seven-delta.vercel.app/graph?username=arifbiswas&theme=react-dark&bg_color=0a0118&color=00fff5&line=ff2fd0&point=ffffff&border=b026ff&title_color=00fff5" width="100%"/>
 
 </div>
 
