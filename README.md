@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arif Biswas
 
 <p align="center">
-  <img src="[https://i.ibb.co.com/YBDx9KPY/Whats-App-Image-2026-08-27-at-10-05-18-PM.jpg](https://i.ibb.co.com/YBDx9KPY/Whats-App-Image-2026-08-27-at-10-05-18-PM.jpg)" alt="Arif Biswas - React Native Developer" width="100%" />
+  <img src="[Image](https://i.ibb.co.com/YBDx9KPY/Whats-App-Image-2026-08-27-at-10-05-18-PM.jpg)" alt="Arif Biswas - React Native Developer" width="100%" />
 </p>
 
 <h2 align="center">🚀 React Native & Full-Stack Developer</h2>
