@@ -101,7 +101,7 @@ I enjoy solving real-world problems, learning new technologies and turning ideas
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arifbiswas&theme=radical&background=0a0118&ring=ff2fd0&fire=00fff5&currStreakLabel=00fff5&sideLabels=e5e7eb&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&border=b026ff&hide_border=false"/>
+<img src="https://streak-stats.demolab.com/?user=arifbiswas&theme=radical&background=0a0118&ring=ff2fd0&fire=00fff5&currStreakLabel=00fff5&sideLabels=e5e7eb&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&border=b026ff&hide_border=false"/>
 
 <br/>
 
