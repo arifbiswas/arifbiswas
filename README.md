@@ -12,7 +12,7 @@
 
 **⚡ Crafting Modern, Fast & Scalable Mobile Experiences ⚡**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff5,50:ff2fd0,100:b026ff&height=4&width=1100" width="100%"/>
+
 
 </div>
 
@@ -55,7 +55,7 @@ I enjoy solving real-world problems, learning new technologies and turning ideas
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b026ff,50:ff2fd0,100:00fff5&height=3&width=1100" width="100%"/>
+
 
 ## <img src="https://img.shields.io/badge/⚡-0a0118?style=flat-square&color=ff2fd0" height="22"/> TECH STACK
 
@@ -90,7 +90,7 @@ I enjoy solving real-world problems, learning new technologies and turning ideas
 ![VS Code](https://img.shields.io/badge/VS_Code-0a0118?style=for-the-badge&logo=visualstudiocode&logoColor=00fff5&color=0a0118)
 ![Figma](https://img.shields.io/badge/Figma-0a0118?style=for-the-badge&logo=figma&logoColor=ff2fd0&color=0a0118)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff5,50:b026ff,100:ff2fd0&height=3&width=1100" width="100%"/>
+
 
 ## <img src="https://img.shields.io/badge/📊-0a0118?style=flat-square&color=b026ff" height="22"/> GITHUB STATS
 
@@ -111,7 +111,7 @@ I enjoy solving real-world problems, learning new technologies and turning ideas
 
 > These widgets pull **live** data from your GitHub account — swap `arifbiswas` for your actual GitHub username if this differs, otherwise the numbers won't populate.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2fd0,50:00fff5,100:b026ff&height=3&width=1100" width="100%"/>
+
 
 ## <img src="https://img.shields.io/badge/🏆-0a0118?style=flat-square&color=00fff5" height="22"/> GITHUB ACHIEVEMENTS
 
@@ -121,7 +121,7 @@ I enjoy solving real-world problems, learning new technologies and turning ideas
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b026ff,50:00fff5,100:ff2fd0&height=3&width=1100" width="100%"/>
+
 
 ## <img src="https://img.shields.io/badge/🌐-0a0118?style=flat-square&color=ff2fd0" height="22"/> FIND ME ONLINE
 
