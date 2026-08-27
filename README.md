@@ -96,8 +96,8 @@ I enjoy solving real-world problems, learning new technologies and turning ideas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arifbiswas&show_icons=true&count_private=true&hide_title=true&theme=radical&bg_color=0a0118&title_color=00fff5&icon_color=ff2fd0&text_color=e5e7eb&border_color=b026ff&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifbiswas&layout=compact&theme=radical&bg_color=0a0118&title_color=00fff5&text_color=e5e7eb&border_color=b026ff&hide_border=false"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=arifbiswas&show_icons=true&count_private=true&hide_title=true&theme=radical&bg_color=0a0118&title_color=00fff5&icon_color=ff2fd0&text_color=e5e7eb&border_color=b026ff&hide_border=false"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arifbiswas&layout=compact&theme=radical&bg_color=0a0118&title_color=00fff5&text_color=e5e7eb&border_color=b026ff&hide_border=false"/>
 
 <br/>
 
